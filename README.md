@@ -1,8 +1,8 @@
-## How to
+# \${1:Error recording prototype}
 
-1. Clone the reprository with
+## Installation
 
-### git clone https://github.com/Levspir/error-recording-prototype.git
+1. Clone this repo to your local machine using `https://github.com/Levspir/error-recording-prototype.git`
 
 2. Go to the project directory
 
@@ -10,8 +10,14 @@
 
 3. In the project directory, you shold run:
 
-### `npm i`
+```shell
+$ npm install
+```
 
-4. After that run project with start script
+## Usage
 
-### `npm start`
+Run project with start script
+
+```shell
+$ npm start
+```
