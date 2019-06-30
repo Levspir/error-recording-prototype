@@ -1,4 +1,4 @@
-# \${1:Error recording prototype}
+# Error recording prototype
 
 ## Installation
 
@@ -6,7 +6,9 @@
 
 2. Go to the project directory
 
-### cd error-recording-prototype/
+```shell
+$ cd error-recording-prototype/
+```
 
 3. In the project directory, you shold run:
 
