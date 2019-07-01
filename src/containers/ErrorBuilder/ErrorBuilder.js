@@ -40,6 +40,7 @@ class ErrorBuilder extends Component {
       history: [startHistory]
     };
     this.props.reportError(errorData);
+    this.props.history.push("/errorrecords");
   };
 
   render() {

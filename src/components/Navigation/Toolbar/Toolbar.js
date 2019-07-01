@@ -5,7 +5,7 @@ import NavigationItems from "../NavigationItems/NavigationItems";
 
 const toolbar = props => (
   <header className={classes.Toolbar}>
-    <nav className={classes.DesktopOnly}>
+    <nav>
       <NavigationItems isAuthenticated={props.isAuth} />
     </nav>
   </header>
