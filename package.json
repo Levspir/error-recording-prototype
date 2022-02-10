@@ -7,7 +7,7 @@
     "axios": "^0.19.0",
     "final-form": "^4.16.1",
     "final-form-material-ui": "^0.3.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-final-form": "^6.3.0",
